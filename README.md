@@ -38,16 +38,7 @@ employee-directory/
 2. Open `index.html` in your web browser
 3. The application will load with sample employee data
 
-### For Development
-1. Use a local development server (optional but recommended):
-   ```bash
-   # Using Python 3
-   python -m http.server 8000
-   
-   # Using Node.js (if you have http-server installed)
-   npx http-server
-   ```
-2. Open `http://localhost:8000` in your browser
+
 
 ## 💻 Technology Stack
 
